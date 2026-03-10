@@ -56,4 +56,4 @@ Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitorpasseri/)
