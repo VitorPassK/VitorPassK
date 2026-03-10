@@ -14,27 +14,6 @@ Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de
 ✔ Relatórios com Allure Reports  
 ✔ Estratégia de testes automatizados
 
-
-## 🚀 Sobre mim
-
-🔎 QA Engineer com foco em **automação de testes e qualidade contínua**
-
-⚙️ Experiência com **testes automatizados, pipelines CI/CD e qualidade de código**
-
-📚 Atualmente estudando e evoluindo em:
-
-- Test Automation
-- CI/CD pipelines
-- Python e Java para automação
-- Engenharia de Qualidade
-
-💡 Interesses:
-
-- Quality Engineering
-- Test Automation
-- DevOps para QA
-- Observabilidade e qualidade de software
-
 ---
 
 ## 🧰 Stack de Tecnologias
@@ -65,7 +44,7 @@ Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPassK&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorPassK&show_icons=true&theme=tokyonight)
 
 ---
 
