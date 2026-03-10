@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Vítor 👋</h1>
 
-<!--
-**VitorPassK/VitorPassK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de software.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Quality Engineering
+
+✔ Test automation (UI e API)  
+✔ CI/CD pipelines para execução de testes  
+✔ Integração com SonarQube para qualidade de código  
+✔ Relatórios com Allure Reports  
+✔ Estratégia de testes automatizados
+
+
+## 🚀 Sobre mim
+
+🔎 QA Engineer com foco em **automação de testes e qualidade contínua**
+
+⚙️ Experiência com **testes automatizados, pipelines CI/CD e qualidade de código**
+
+📚 Atualmente estudando e evoluindo em:
+
+- Test Automation
+- CI/CD pipelines
+- Python e Java para automação
+- Engenharia de Qualidade
+
+💡 Interesses:
+
+- Quality Engineering
+- Test Automation
+- DevOps para QA
+- Observabilidade e qualidade de software
+
+---
+
+## 🧰 Stack de Tecnologias
+
+### Test Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-16a085?style=for-the-badge)
+
+### CI/CD e Qualidade
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge)
+
+### Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 📈 Atividade
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github)
+
+---
+
+## 🌎 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
