@@ -44,7 +44,7 @@ Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorPassK&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=VitorPassK&theme=tokyonight)
 
 ---
 
