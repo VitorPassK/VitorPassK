@@ -65,15 +65,15 @@ Quality Assurance Engineer focado em automação de testes, CI/CD e qualidade de
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPassK&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPassK&layout=compact&theme=github_dark)
 
 ---
 
 ## 📈 Atividade
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorPassK&theme=github)
 
 ---
 
