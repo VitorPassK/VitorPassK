@@ -44,12 +44,6 @@ Atualmente focado em garantir a resiliência de aplicações através de estrat�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorPassK&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorPassK&theme=tokyonight&area=true)
-
----
-
 ### 🌎 Connect with me
 
 <p align="left">
